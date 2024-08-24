@@ -1,6 +1,6 @@
 # go-example-rest-api
 
-- 💻 Example rest api in module structure
+- 💻 Example rest api in module structure.
 
 - 💻 Use httprouter with Gin framework.
 
